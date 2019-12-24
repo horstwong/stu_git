@@ -1,0 +1,13 @@
+<script>
+  hljs.configure({tabReplace: '    '});
+  hljs.initHighlightingOnLoad();
+</script>
+ 
+<pre>
+	<code class="python">
+def func():
+    print('hello')
+    print('horst')
+	</code>
+</pre>
+
